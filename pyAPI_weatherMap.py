@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 #import seaborn
 
+
 # Minha API key para o site OpenWeatherMap
 api_key = 'a1d5318e63d38b59c63e7eb0e0691e14'   # dentro das ' '
 
